@@ -39,4 +39,4 @@ Instructions to build and run the app locally.
 * The Android version barely works. Many screens don't open, functions of the app don't work and symbols are not showing. This shows that the Skip lite transpiler is not recommended for larger and more professional apps. However it is still possible to write your own UI in Android Studio but for the sake of my research i will not be doing that. This version exists just to compare to the Skip Fuse version.
 
 **Open Questions for Reviewers:**
-* []
+* https://icthva-my.sharepoint.com/:w:/g/personal/milad_ahmad_hva_nl/IQDIcWrRQz5mQaaXud5vzZerAZPkIX9cEonXKThuU7LzUgs?e=uENibx
